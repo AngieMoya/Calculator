@@ -1,0 +1,12 @@
+.Keyboard{
+    width: 335px;
+    margin: 0px 20px 50px 20px;
+}
+
+.Keyboard div{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 16px;
+}

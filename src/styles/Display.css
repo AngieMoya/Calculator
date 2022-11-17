@@ -1,0 +1,50 @@
+.Display {
+  margin: 55px 20px 0px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  max-width: 100%;
+}
+
+.operation {
+  height: 47px;
+  margin-bottom: 16px;
+  font-size: 40px;
+  font-weight: 300;
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: clip;
+  direction: rtl;
+}
+
+.operationLightLetter {
+  color: #000000;
+  opacity: 0.4;
+}
+
+.operationDarkLetter {
+  color: #ffffff;
+  opacity: 0.4;
+}
+
+.result {
+  height: 96px;
+  margin-bottom: 16px;
+  font-size: 96px;
+  font-weight: 300;
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: clip;
+  direction: rtl;
+}
+
+.resultLightLetter {
+  color: #000000;
+}
+
+.resultDarkLetter {
+  color: #ffffff;
+}

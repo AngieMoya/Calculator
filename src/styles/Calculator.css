@@ -1,0 +1,15 @@
+.Calculator {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 375px;
+  height: 812px;
+}
+
+.lightBackground {
+  background-color: #f1f2f3;
+}
+
+.darkBackground {
+  background-color: #17171c;
+}

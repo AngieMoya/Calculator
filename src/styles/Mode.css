@@ -1,0 +1,38 @@
+.switch{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 72px;
+    height: 32px;
+    border-style: none;
+    border-radius: 16px;
+    margin-top: 60px;
+    cursor: pointer;  
+}
+
+.lightSwitch{
+    background-color: #FFFFFF;
+}
+
+.darkSwitch{
+    background-color: #2E2F38;
+}
+
+.circle{
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+}
+
+.lightCircle{
+    background-color: #D2D3DA;
+}
+
+.darkCircle{
+    background-color: #4E505F;
+}
+
+.icon{
+    width: 24px;
+    height: 24px;
+}

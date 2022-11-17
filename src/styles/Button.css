@@ -1,0 +1,37 @@
+button{
+    border-style: none;
+    width: 71.75px;
+    height: 72px;
+    border-radius: 24px;
+    font-weight: 400;
+    font-size: 32px;
+    cursor: pointer;
+}
+
+.darkLetterButton{
+    color:#FFFFFF;
+}
+
+.lightLetterButton{
+    color: #000000;
+}
+
+.softGrayButton{
+    background-color: #D2D3DA;
+}
+
+.grayButton{
+    background-color: #4E505F;
+}
+
+.darkGrayButton{
+    background-color: #2E2F38;
+}
+
+.whiteButton{
+    background-color: #FFFFFF;
+}
+
+.purpleButton{
+    background-color: #4B5EFC;
+}
